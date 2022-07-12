@@ -59,9 +59,9 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: Afeca College of Engineering
-      time: 2011 - 2012
+    - degree: MSc in Intelligent Systems
+      university: Afeka College of Engineering
+      time: 2018 - 2021
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -70,8 +70,8 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
+    - degree: BSc in Computer Science
+      university: Afeka College of Engineering
       time: 2007 - 2011
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -175,20 +175,9 @@ skills:
       - name: Kotlin
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: Compose
         level: 60%
+
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
