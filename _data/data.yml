@@ -12,14 +12,14 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: ktlint@gmail.com
+    phone: 0542095929
+    timezone: ISRATL Timezone
     citizenship:
     website: blog.webjeda.com #do not add http://
     linkedin: alandoe
     xing: alandoe
-    github: sharu725
+    github: kateLint
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -30,13 +30,13 @@ sidebar:
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
-      - idiom: English
+      - idiom: Russian
         level: Native
 
-      - idiom: French
+      - idiom: Eglish
         level: Professional
 
-      - idiom: Spanish
+      - idiom: Hewrew
         level: Professional
 
     interests:
@@ -60,7 +60,7 @@ career-profile:
       Second paragraph if required.
 education:
     - degree: MSc in Computer Science
-      university: University of London
+      university: Afeca College of Engineering
       time: 2011 - 2012
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
